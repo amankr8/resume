@@ -1,0 +1,161 @@
+{
+    "selectedTemplate": 1,
+    "headings": {
+      "work": "Work Experience",
+      "education": "Education",
+      "skills": "Skills",
+      "projects": "Projects",
+      "awards": "Certifications"
+    },
+    "basics": {
+      "name": "Aman Kumar",
+      "email": "amankumar141099@gmail.com",
+      "phone": "+91-9334527565",
+      "location": {
+        "address": "Bangalore, IN"
+      },
+      "website": "https://www.linkedin.com/in/amankr8/"
+    },
+    "education": [
+      {
+        "institution": "BITS Pilani",
+        "location": "Hyderabad, IN",
+        "area": "Electrical and Electronics Engineering",
+        "startDate": "August, 2018",
+        "endDate": "June, 2023",
+        "gpa": "7.4",
+        "studyType": "B.E. (Hons.)"
+      },
+      {
+        "location": "Hyderabad, IN",
+        "studyType": "M.Sc. (Hons.)",
+        "area": "Chemistry",
+        "gpa": "7.4",
+        "startDate": "August, 2018",
+        "endDate": "June, 2023",
+        "institution": "BITS Pilani"
+      }
+    ],
+    "work": [
+      {
+        "company": "Infor",
+        "location": "Bangalore, IN",
+        "position": "Software Engineer",
+        "website": "",
+        "startDate": "July 2023",
+        "endDate": "Present",
+        "highlights": [
+          "Contribute to the development and enhancement of the Workforce Management Software Application (WFM).",
+          "Handle feature implementations and resolve customer-reported bugs, ensuring high-quality product delivery.",
+          "Work on integrating third-party services and maintaining their functionalities within the platform.",
+          "Collaborate with teams to write unit and integration tests, automate workflows, and manage CI/CD pipelines using GitLab.",
+          "Technologies used: Java, Spring Boot, Angular, JavaScript, SQL, JUnit, Cucumber"
+        ]
+      },
+      {
+        "highlights": [
+          "Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers in the 5G NR Network.",
+          "Developed simulation models in Python and analyzed the results using Numpy and Matplotlib.",
+          "Successfully demonstrated a 27% performance improvement in load balancing using a novel algorithm, compared to the base algorithm."
+        ],
+        "company": "Samsung Research",
+        "location": "Bangalore, IN",
+        "position": "Software Engineer Intern",
+        "startDate": "August 2022",
+        "endDate": "December 2022"
+      },
+      {
+        "highlights": [
+          "Analyzed and created reports for an indoor skydiving company by generating data and tables using SQL and Power BI.",
+          "Developed an automated Excel template that saved 6 hours of manual work per week.",
+          "Designed and implemented a Power BI dashboard from scratch based on client specifications."
+        ],
+        "company": "Merilytics, an Accordion company",
+        "position": "Business Analyst Intern",
+        "location": "Hyderabad, IN",
+        "startDate": "January 2023",
+        "endDate": "June 2023"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+          "Java",
+          "JavaScript",
+          "C++",
+          "TypeScript"
+        ]
+      },
+      {
+        "keywords": [
+          "Angular",
+          "Spring Boot",
+          "ReactJs",
+          "NodeJs"
+        ],
+        "name": "Frameworks & Libraries:"
+      },
+      {
+        "keywords": [
+          "AWS",
+          "Docker",
+          "Gitlab"
+        ],
+        "name": "Tools & Technologies"
+      },
+      {
+        "keywords": [
+          "MySQL",
+          "PostgreSQL",
+          "MongoDB"
+        ],
+        "name": "Databases"
+      },
+      {
+        "keywords": [
+          "JUnit",
+          "Cucumber"
+        ],
+        "name": "Testing & Automation"
+      }
+    ],
+    "projects": [
+      {
+        "name": "FURIDA Web Application",
+        "description": "Developed a web application for an NGO to post latest news and upload project-related documents. Created an admin dashboard for the client to manage this content on the application. Implemented backend using Java and Spring Boot, and frontend using Angular. Deployed the application on AWS using Docker and integrated PostgreSQL as the database.",
+        "url": "https://furida.in",
+        "keywords": [
+          "Java",
+          "Spring Boot",
+          "Angular",
+          "Docker",
+          "AWS"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Postman Student Expert",
+        "date": "May 2022",
+        "awarder": "Postman, Inc.",
+        "summary": "Awarded by Postman, Inc. for completing training on building and testing API requests using Postman."
+      },
+      {
+        "title": "Samsung SWC (Software Competency)",
+        "date": "November 2022",
+        "awarder": "Samsung Research",
+        "summary": "Cleared the software competency test hosted by Samsung at the end of their internship."
+      }
+    ],
+    "sections": [
+      "templates",
+      "profile",
+      "education",
+      "work",
+      "skills",
+      "projects",
+      "awards"
+    ]
+  }
