@@ -18,7 +18,7 @@ _July 2023 – Present_
 - Handle feature implementations and resolve customer-reported bugs, ensuring high-quality product delivery.
 - Work on integrating third-party services and maintaining their functionalities within the platform.
 - Collaborate with teams to write unit and integration tests, automate workflows, and manage CI/CD pipelines using GitLab.
-- **Technologies used:** Java, Kotlin, Spring Boot, Angular, JavaScript, SQL, JUnit, Cucumber
+- **Technologies used:** Java, Kotlin, Spring Boot, JavaScript, TypeScript, Angular, SQL, Docker, JUnit, Cucumber
 
 ### Software Engineer Intern
 
