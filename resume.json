@@ -49,7 +49,7 @@
         "Handle feature implementations and resolve customer-reported bugs, ensuring high-quality product delivery.",
         "Work on integrating third-party services and maintaining their functionalities within the platform.",
         "Collaborate with teams to write unit and integration tests, automate workflows, and manage CI/CD pipelines using GitLab.",
-        "Technologies used: Java, Kotlin, Spring Boot, JavaScript, TypeScript, Angular, SQL, Docker, JUnit, Cucumber"
+        "Tools and Technologies: Java, Kotlin, Spring Boot, JavaScript, TypeScript, Angular, SQL, Docker, Jenkins, JIRA, JUnit, Cucumber"
       ]
     },
     {
@@ -88,7 +88,7 @@
       "name": "Frameworks & Libraries:"
     },
     {
-      "keywords": ["AWS", "Docker", "Gitlab"],
+      "keywords": ["AWS", "Docker", "Jenkins", "Gitlab", "JIRA"],
       "name": "Tools & Technologies"
     },
     {
@@ -96,7 +96,7 @@
       "name": "Databases"
     },
     {
-      "keywords": ["JUnit", "Cucumber"],
+      "keywords": ["JUnit", "Mockito", "Cucumber"],
       "name": "Testing & Automation"
     }
   ],
