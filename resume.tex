@@ -1,0 +1,144 @@
+\documentclass[a4paper]{article}
+    \usepackage{fullpage}
+    \usepackage{amsmath}
+    \usepackage{amssymb}
+    \usepackage{textcomp}
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \textheight=10in
+    \pagestyle{empty}
+    \raggedright
+    \usepackage[left=0.8in,right=0.8in,bottom=0.8in,top=0.8in]{geometry}
+
+    %\renewcommand{\encodingdefault}{cg}
+%\renewcommand{\rmdefault}{lgrcmr}
+
+\def\bull{\vrule height 0.8ex width .7ex depth -.1ex }
+
+% DEFINITIONS FOR RESUME %%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\area} [2] {
+    \vspace*{-9pt}
+    \begin{verse}
+        \textbf{#1}   #2
+    \end{verse}
+}
+
+\newcommand{\lineunder} {
+    \vspace*{-8pt} \\
+    \hspace*{-18pt} \hrulefill \\
+}
+
+\newcommand{\header} [1] {
+    {\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
+    \vspace*{-6pt} \lineunder
+}
+
+\newcommand{\employer} [3] {
+    { \textbf{#1} (#2)\\ \underline{\textbf{\emph{#3}}}\\  }
+}
+
+\newcommand{\contact} [3] {
+    \vspace*{-10pt}
+    \begin{center}
+        {\Huge \scshape {#1}}\\
+        #2 \\ #3
+    \end{center}
+    \vspace*{-8pt}
+}
+
+\newenvironment{achievements}{
+    \begin{list}
+        {$\bullet$}{\topsep 0pt \itemsep -2pt}}{\vspace*{4pt}
+    \end{list}
+}
+
+\newcommand{\schoolwithcourses} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+    \vspace*{5pt}
+}
+
+\newcommand{\school} [4] {
+    \textbf{#1} #2 $\bullet$ #3\\
+    #4 \\
+}
+% END RESUME DEFINITIONS %%%%%%%%%%%%%%%%%%%%%%%
+
+    \begin{document}
+\vspace*{-40pt}
+
+    
+
+%==== Profile ====%
+\vspace*{-10pt}
+\begin{center}
+	{\Huge \scshape {Aman Kumar}}\\
+	Bangalore, IN $\cdot$ amankumar141099@gmail.com $\cdot$ +91-9334527565 $\cdot$ https://www.linkedin.com/in/amankr8/\\
+\end{center}
+
+%==== Education ====%
+\header{Education}
+\textbf{BITS Pilani}\hfill Hyderabad, IN\\
+B.E. (Hons.) Electrical and Electronics Engineering \textit{GPA: 7.4} \hfill August, 2018 - June, 2023\\
+\vspace{2mm}
+\textbf{BITS Pilani}\hfill Hyderabad, IN\\
+M.Sc. (Hons.) Chemistry \textit{GPA: 7.4} \hfill August, 2018 - June, 2023\\
+\vspace{2mm}
+
+%==== Experience ====%
+\header{Work Experience}
+\vspace{1mm}
+
+\textbf{Infor} \hfill Bangalore, IN\\
+\textit{Software Engineer} \hfill July 2023 - Present\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Contribute to the development and enhancement of the Workforce Management Software Application (WFM).
+	\item Handle feature implementations and resolve customer-reported bugs, ensuring high-quality product delivery.
+	\item Work on integrating third-party services and maintaining their functionalities within the platform.
+	\item Collaborate with teams to write unit and integration tests, automate workflows, and manage CI/CD pipelines using GitLab.
+	\item Relevant Tools and Technologies: Java, Kotlin, Spring, JavaScript, TypeScript, Angular, SQL, Docker, Gitlab, Jenkins, JIRA, JUnit, Cucumber
+\end{itemize}
+\textbf{Samsung Research} \hfill Bangalore, IN\\
+\textit{Software Engineer Intern} \hfill August 2022 - December 2022\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers in the 5G NR Network.
+	\item Developed simulation models in Python and analyzed the results using Numpy and Matplotlib.
+	\item Successfully demonstrated a 27\% performance improvement in load balancing using a novel algorithm, compared to the base algorithm.
+\end{itemize}
+\textbf{Merilytics, an Accordion company} \hfill Hyderabad, IN\\
+\textit{Business Analyst Intern} \hfill January 2023 - June 2023\\
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+	\item Analyzed and created reports for an indoor skydiving company by generating data and tables using SQL and Power BI.
+	\item Developed an automated Excel template that saved 6 hours of manual work per week.
+	\item Designed and implemented a Power BI dashboard from scratch based on client specifications.
+\end{itemize}
+
+\header{Skills}
+\begin{tabular}{ l l }
+	Programming Languages:    & Java, JavaScript, Kotlin, TypeScript \\
+	Frameworks \& Libraries:: & Angular, Spring, Spring Boot         \\
+	Tools \& Technologies:    & AWS, Docker, Jenkins                 \\
+	Databases:                & MySQL, PostgreSQL                    \\
+	Testing \& Automation:    & JUnit, Cucumber                      \\
+\end{tabular}
+\vspace{2mm}
+
+\header{Projects}
+{\textbf{FURIDA Web Application}} {\sl Java, Spring Boot, Angular, TypeScript, PostgreSQL, Docker, AWS} \hfill https://furida.in\\
+Developed a web application for an NGO to post latest news and upload project-related documents. Created an admin dashboard for the client to manage this content on the application. Implemented backend using Java and Spring Boot, and frontend using Angular and TypeScript. Deployed the application on AWS EC2 using Docker and integrated PostgreSQL as the database.\\
+\vspace*{2mm}
+
+\header{Certifications}
+\textbf{Postman Student Expert} \hfill Postman, Inc.\\
+Awarded by Postman, Inc. for completing training on building and testing API requests using Postman. \hfill May 2022\\
+\vspace*{2mm}
+\textbf{Samsung SWC (Software Competency)} \hfill Samsung Research\\
+Cleared the software competency test hosted by Samsung at the end of their internship. \hfill November 2022\\
+\vspace*{2mm}
+
+\ 
+\end{document}
