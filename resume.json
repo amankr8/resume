@@ -81,22 +81,22 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": ["Java", "JavaScript", "C++", "TypeScript"]
+      "keywords": ["Java", "JavaScript", "Kotlin", "TypeScript"]
     },
     {
-      "keywords": ["Angular", "Spring Boot", "ReactJs", "NodeJs"],
+      "keywords": ["Angular", "Spring", "Spring Boot"],
       "name": "Frameworks & Libraries:"
     },
     {
-      "keywords": ["AWS", "Docker", "Jenkins", "Gitlab", "JIRA"],
+      "keywords": ["AWS", "Docker", "Jenkins"],
       "name": "Tools & Technologies"
     },
     {
-      "keywords": ["MySQL", "PostgreSQL", "MongoDB"],
+      "keywords": ["MySQL", "PostgreSQL"],
       "name": "Databases"
     },
     {
-      "keywords": ["JUnit", "Mockito", "Cucumber"],
+      "keywords": ["JUnit", "Cucumber"],
       "name": "Testing & Automation"
     }
   ],
