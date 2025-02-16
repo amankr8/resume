@@ -103,7 +103,7 @@
   "projects": [
     {
       "name": "FURIDA Web Application",
-      "description": "Developed a web application for an NGO to post latest news and upload project-related documents. Created an admin dashboard for the client to manage this content on the application. Implemented backend using Java and Spring Boot, and frontend using Angular. Deployed the application on AWS using Docker and integrated PostgreSQL as the database.",
+      "description": "Developed a web application for an NGO to post latest news and upload project-related documents. Created an admin dashboard for the client to manage this content on the application. Implemented backend using Java and Spring Boot, and frontend using Angular and TypeScript. Deployed the application on AWS EC2 using Docker and integrated PostgreSQL as the database.",
       "url": "https://furida.in",
       "keywords": [
         "Java",
