@@ -54,18 +54,6 @@
     },
     {
       "highlights": [
-        "Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers in the 5G NR Network.",
-        "Developed simulation models in Python and analyzed the results using Numpy and Matplotlib.",
-        "Successfully demonstrated a 27% performance improvement in load balancing using a novel algorithm, compared to the base algorithm."
-      ],
-      "company": "Samsung Research",
-      "location": "Bangalore, IN",
-      "position": "Software Engineer Intern",
-      "startDate": "August 2022",
-      "endDate": "December 2022"
-    },
-    {
-      "highlights": [
         "Analyzed and created reports for an indoor skydiving company by generating data and tables using SQL and Power BI.",
         "Developed an automated Excel template that saved 6 hours of manual work per week.",
         "Designed and implemented a Power BI dashboard from scratch based on client specifications."
@@ -75,6 +63,18 @@
       "location": "Hyderabad, IN",
       "startDate": "January 2023",
       "endDate": "June 2023"
+    },
+    {
+      "highlights": [
+        "Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers in the 5G NR Network.",
+        "Developed simulation models in Python and analyzed the results using Numpy and Matplotlib.",
+        "Successfully demonstrated a 27% performance improvement in load balancing using a novel algorithm, compared to the base algorithm."
+      ],
+      "company": "Samsung Research",
+      "location": "Bangalore, IN",
+      "position": "Software Engineer Intern",
+      "startDate": "July 2022",
+      "endDate": "December 2022"
     }
   ],
   "skills": [
