@@ -1,84 +1,100 @@
-# Aman Kumar
+# **Aman Kumar**
 
-- 📍 Bangalore, IN
-- 📞 +91-9334527565
-- 📧 [amankumar141099@gmail.com](mailto:amankumar141099@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amankr8/)
+📍 Bangalore, IN  
+📞 +91-9334527565  
+📧 [amankumar141099@gmail.com](mailto:amankumar141099@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/amankr8/)
 
 ---
 
-## Work Experience
+## **Work Experience**
 
-### Software Engineer — Infor, Bangalore, IN
+### **Software Engineer** — _Infor_
 
-**July 2023 – Present**
+**Bangalore, IN** | _June 2023 – Present_
 
 - Contribute to the development and enhancement of the Workforce Management Software Application (WFM).
-- Handle feature implementations and resolve customer-reported bugs, ensuring high-quality product delivery.
-- Work on integrating third-party services by implementing key APIs and features.
-- Maintain application functionalities and collaborate on unit/integration testing, CI/CD (GitLab).
-- **Tech Stack:** Java, Kotlin, Spring, JavaScript, TypeScript, Angular, SQL, Docker, GitLab, Jenkins, JIRA, JUnit, Cucumber
+- Handle feature implementations and resolve customer-reported bugs.
+- Integrate third-party services via key APIs and features.
+- Collaborate on unit/integration tests, CI/CD pipelines with GitLab.
+- **Technologies:** Java, Kotlin, Spring, JavaScript, TypeScript, Angular, SQL, Docker, GitLab, Jenkins, JIRA, JUnit, Cucumber
 
-### Business Analyst Intern — Merilytics, an Accordion company, Hyderabad, IN
+### **Business Analyst Intern** — _Merilytics, an Accordion company_
 
-**January 2023 – June 2023**
+**Hyderabad, IN** | _Jan 2023 – May 2023_
 
-- Analyzed and created reports for an indoor skydiving company using SQL and Power BI.
-- Developed an automated Excel template that saved 6 hours of manual work per week.
-- Designed and implemented a Power BI dashboard from scratch as per client specifications.
+- Generated data reports using SQL and Power BI for an indoor skydiving client.
+- Automated Excel processes, saving ~6 hours/week.
+- Designed and developed custom Power BI dashboard.
 
-### Software Engineer Intern — Samsung Research, Bangalore, IN
+### **Software Engineer Intern** — _Samsung Research_
 
-**July 2022 – December 2022**
+**Bangalore, IN** | _Aug 2022 – Dec 2022_
 
-- Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers.
-- Developed simulation models in Python and analyzed results using Numpy and Matplotlib.
-- Demonstrated 27% performance improvement using a novel load balancing algorithm.
-
----
-
-## Education
-
-**B.E. (Hons.), Electrical and Electronics Engineering**  
-BITS Pilani, Hyderabad, IN  
-**August 2018 – June 2023** | GPA: 7.4
-
-**M.Sc. (Hons.), Chemistry**  
-BITS Pilani, Hyderabad, IN  
-**August 2018 – June 2023** | GPA: 7.4
+- Worked on MAC sublayer of the 5G NR protocol stack for load balancing.
+- Developed simulations in Python; analyzed with NumPy, Matplotlib.
+- Demonstrated a 27% performance improvement via novel algorithm.
 
 ---
 
-## Skills
+## **Education**
 
-- **Programming Languages:** Java, JavaScript, Kotlin, TypeScript
-- **Frameworks & Libraries:** Angular, Spring, Spring Boot
-- **Tools & Technologies:** AWS, Docker, Jenkins
-- **Databases:** MySQL, PostgreSQL
-- **Testing & Automation:** JUnit, Cucumber
+### **BITS Pilani, Hyderabad Campus**
 
----
+**B.E. (Hons.) Electrical and Electronics Engineering**  
+_Aug 2018 – Jun 2023_ | GPA: 7.4
 
-## Projects
+### **BITS Pilani, Hyderabad Campus**
 
-### [FURIDA Web Application](https://furida.org)
-
-Developed a web application for an NGO to post news and upload documents. Built an admin dashboard for content management.
-
-- **Backend:** Java, Spring Boot
-- **Frontend:** Angular, TypeScript
-- **Infrastructure:** AWS EC2, Docker, PostgreSQL
+**M.Sc. (Hons.) Chemistry**  
+_Aug 2018 – Jun 2023_ | GPA: 7.4
 
 ---
 
-## Certifications
+## **Skills**
 
-### Postman Student Expert — Postman, Inc.
+### Programming Languages
 
-**May 2022**  
-Awarded for completing training on building and testing API requests using Postman.
+`Java`, `JavaScript`, `Kotlin`, `TypeScript`
 
-### Samsung SWC (Software Competency) — Samsung Research
+### Frameworks & Libraries
 
-**November 2022**  
-Cleared the software competency test conducted by Samsung at the end of internship.
+`Angular`, `Spring`, `Spring Boot`
+
+### Tools & Technologies
+
+`AWS`, `Docker`, `Jenkins`, `GitLab`
+
+### Databases
+
+`MySQL`, `PostgreSQL`
+
+### Testing & Automation
+
+`JUnit`, `Cucumber`
+
+---
+
+## **Projects**
+
+### **[FURIDA Web Application](https://furida.org)**
+
+A platform for an NGO to manage and share news, documents, and projects.
+
+- Built with Java + Spring Boot (backend), Angular + TypeScript (frontend)
+- PostgreSQL for database, deployed on AWS EC2 using Docker
+- Features admin dashboard and RESTful API architecture  
+  **Keywords:** `Java`, `Spring Boot`, `Angular`, `TypeScript`, `PostgreSQL`, `Docker`, `AWS`
+
+---
+
+## **Certifications**
+
+- **Postman Student Expert** — _Postman, Inc._  
+  _May 2022_
+
+  > Completed training on building and testing API requests using Postman.
+
+- **Samsung SWC (Software Competency)** — _Samsung Research_  
+  _Nov 2022_
+  > Cleared Samsung’s software competency test post-internship.
