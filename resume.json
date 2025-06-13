@@ -40,23 +40,25 @@
     {
       "company": "Infor",
       "location": "Bangalore, IN",
-      "position": "Software Engineer",
+      "position": "Software Engineer - Java (Spring)",
       "website": "",
       "startDate": "June 2023",
       "endDate": "Present",
       "highlights": [
-        "Contributed to the development and enhancement of the Workforce Management Software Application (WFM).",
-        "Handled feature implementations and resolved customer-reported bugs, ensuring high-quality product delivery.",
-        "Worked on integrating third-party services by implementing key APIs and features, and maintaining their functionalities within the application.",
-        "Collaborated with teams to write unit and integration tests, automate workflows, and manage CI/CD pipelines using GitLab.",
-        "Relevant Tools and Technologies: Java, Kotlin, Spring, JavaScript, TypeScript, Angular, SQL, Docker, Gitlab, Jenkins, JIRA, JUnit, Cucumber"
+        "Worked on the development of a large-scale enterprise application - Workforce Management Software using Java and Spring.",
+        "Implemented RESTful APIs and backend modules, ensuring modularity and scalability within the monolith structure.",
+        "Led integrations with third-party services, handling both backend logic and security requirements.",
+        "Containerized the application using Docker to standardize deployment environments and improve testing.",
+        "Worked closely with QA and DevOps teams to improve CI/CD pipelines using GitLab and Jenkins.",
+        "Wrote unit and integration tests using JUnit and Cucumber to maintain code quality and reduce regression bugs.",
+        "Technologies: Java, Spring, AWS, Docker, GitLab, SQL, Angular"
       ]
     },
     {
       "highlights": [
-        "Analyzed and created reports for an indoor skydiving company by generating data and tables using SQL and Power BI.",
-        "Developed an automated Excel template that saved 6 hours of manual work per week.",
-        "Designed and implemented a Power BI dashboard from scratch based on client specifications."
+        "Automated client reporting workflows, saving 6+ hours per week.",
+        "Built Power BI dashboards and dynamic Excel templates using SQL-driven insights.",
+        "Delivered actionable analytics to support business decisions for an indoor skydiving client."
       ],
       "company": "Merilytics, an Accordion company",
       "position": "Business Analyst Intern",
@@ -68,7 +70,7 @@
       "highlights": [
         "Worked on the MAC sublayer of the 5G NR protocol stack, focusing on Load-Balancing handovers in the 5G NR Network.",
         "Developed simulation models in Python and analyzed the results using Numpy and Matplotlib.",
-        "Successfully demonstrated a 27% performance improvement in load balancing using a novel algorithm, compared to the base algorithm."
+        "Successfully demonstrated a 27% performance improvement in load balancing using a novel algorithm."
       ],
       "company": "Samsung Research",
       "location": "Bangalore, IN",
@@ -80,39 +82,50 @@
   "skills": [
     {
       "name": "Programming Languages",
-      "level": "",
-      "keywords": ["Java", "JavaScript", "Kotlin", "TypeScript"]
+      "keywords": ["Java", "Kotlin", "JavaScript", "TypeScript"]
     },
     {
-      "keywords": ["Angular", "Spring", "Spring Boot"],
-      "name": "Frameworks & Libraries:"
+      "name": "Frameworks",
+      "keywords": [
+        "Spring Boot",
+        "Spring",
+        "REST APIs",
+        "Microservices",
+        "Angular"
+      ]
     },
     {
-      "keywords": ["AWS", "Docker", "Jenkins", "Gitlab"],
-      "name": "Tools & Technologies"
+      "keywords": [null]
     },
     {
-      "keywords": ["MySQL", "PostgreSQL"],
-      "name": "Databases"
+      "name": "Cloud & DevOps",
+      "keywords": ["AWS (EC2, S3, RDS)", "Docker", "Gitlab CI/CD"]
     },
     {
-      "keywords": ["JUnit", "Cucumber"],
-      "name": "Testing & Automation"
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "MySQL"]
+    },
+    {
+      "name": "Testing & QA",
+      "keywords": ["JUnit", "Cucumber"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["Git", "JIRA"]
     }
   ],
   "projects": [
     {
       "name": "FURIDA Web Application",
-      "description": "Developed a web application for an NGO to post latest news and upload project-related documents. Created an admin dashboard for the client to manage this content on the application. Implemented the REST API using Java and Spring Boot, and the frontend UI using Angular and TypeScript. Deployed the application on AWS EC2 using Docker and integrated PostgreSQL as the database.",
+      "description": "Developed a full-stack web application for an NGO using Java and Spring Boot for the backend and Angular for the frontend. Created REST APIs and integrated PostgreSQL as the database. Containerized the application using Docker and deployed it on AWS EC2. Used AWS RDS to host the PostgreSQL database for improved scalability and maintenance.",
       "url": "https://furida.org",
       "keywords": [
         "Java",
         "Spring Boot",
-        "Angular",
-        "TypeScript",
-        "PostgreSQL",
+        "AWS",
         "Docker",
-        "AWS"
+        "PostgreSQL",
+        "Angular"
       ]
     }
   ],
